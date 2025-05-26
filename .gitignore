@@ -2,5 +2,5 @@
 /old_heatmaps_save.py
 /statcast_heatmaps.ipynb
 /test.ipynb
-/pycache
+/__pycache__
 bonus_analyses/batted_balls_2025.csv
