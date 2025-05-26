@@ -78,3 +78,5 @@ heatmaps.statcast_heatmap(player="Jackie Bradley", start_dt='2016-04-24', end_dt
 heatmaps.statcast_heatmap(player='Bryce Harper', start_dt='2015-01-01', end_dt='2015-10-04', p_throws='L', pitch_type='breaking')
  ```
  ![Strike zone heatmaps for Bryce Harper against lefty breaking balls, 2015](bonus_analyses/images/example_harper.png)
+
+ The last piece of this repository is mostly for fun and not always related to this script, but I'll be doing some smaller baseball data analysis projects and storing them here.  They're in the [bonus_analyses](bonus_analyses) folder here.  
