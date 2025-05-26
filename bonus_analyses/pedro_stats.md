@@ -26,7 +26,7 @@ Of course, we wouldn't want to take anything away from Kershaw and Gibson, but t
 
 ![Scatterplots for Pedro Martinez's 1999 and 2000 (ERA vs WHIP, K% vs BB%)](images/pedro_peak_seasons.png)
 
-These charts sort of illustrate my point; would you have spotted Kershaw or Gibson on both charts without them being labeled?  Maybe on the ERA-WHIP plot, but on both?
+These charts sort of illustrate my point; would you have spotted Kershaw or Gibson on both charts without them being labeled?  Maybe on the ERA-WHIP plot, but on both?  Nobody else in the American League was within a run of Pedro.
 
 ### Some extras
 
