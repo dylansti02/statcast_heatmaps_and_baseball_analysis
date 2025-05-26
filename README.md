@@ -26,6 +26,16 @@ seaborn.heatmap()
 
 # Installation and Execution
 
+Dependencies and credits
+
+- pybaseball
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+
+
 Clone repository and install dependencies (common libraries and aliases)
 
 ```bash
