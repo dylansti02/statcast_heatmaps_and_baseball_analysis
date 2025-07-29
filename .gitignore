@@ -8,3 +8,6 @@ bonus_analyses/batted_balls_2025.csv
 /all_batters.csv
 /batters.csv
 /image.png
+/age_curve.ipynb
+/two_strike.ipynb
+/velo_control_ppf.ipynb
